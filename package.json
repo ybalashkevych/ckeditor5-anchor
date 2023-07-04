@@ -10,24 +10,24 @@
     "ckeditor5-plugin"
   ],
   "dependencies": {
-    "@ckeditor/ckeditor5-clipboard": "^24.0.0",
-    "@ckeditor/ckeditor5-core": "^24.0.0",
-    "@ckeditor/ckeditor5-engine": "^24.0.0",
-    "@ckeditor/ckeditor5-image": "^24.0.0",
-    "@ckeditor/ckeditor5-typing": "^24.0.0",
-    "@ckeditor/ckeditor5-ui": "^24.0.0",
-    "@ckeditor/ckeditor5-utils": "^24.0.0",
+    "@ckeditor/ckeditor5-clipboard": "^38.0.1",
+    "@ckeditor/ckeditor5-core": "^38.0.1",
+    "@ckeditor/ckeditor5-engine": "^38.0.1",
+    "@ckeditor/ckeditor5-image": "^38.0.1",
+    "@ckeditor/ckeditor5-typing": "^38.0.1",
+    "@ckeditor/ckeditor5-ui": "^38.0.1",
+    "@ckeditor/ckeditor5-utils": "^38.0.1",
     "lodash-es": "^4.17.15"
   },
   "devDependencies": {
-    "@ckeditor/ckeditor5-basic-styles": "^24.0.0",
-    "@ckeditor/ckeditor5-block-quote": "^24.0.0",
-    "@ckeditor/ckeditor5-code-block": "^24.0.0",
-    "@ckeditor/ckeditor5-editor-classic": "^24.0.0",
-    "@ckeditor/ckeditor5-enter": "^24.0.0",
-    "@ckeditor/ckeditor5-paragraph": "^24.0.0",
-    "@ckeditor/ckeditor5-theme-lark": "^24.0.0",
-    "@ckeditor/ckeditor5-undo": "^24.0.0"
+    "@ckeditor/ckeditor5-basic-styles": "^38.0.1",
+    "@ckeditor/ckeditor5-block-quote": "^38.0.1",
+    "@ckeditor/ckeditor5-code-block": "^38.0.1",
+    "@ckeditor/ckeditor5-editor-classic": "^38.0.1",
+    "@ckeditor/ckeditor5-enter": "^38.0.1",
+    "@ckeditor/ckeditor5-paragraph": "^38.0.1",
+    "@ckeditor/ckeditor5-theme-lark": "^38.0.1",
+    "@ckeditor/ckeditor5-undo": "^38.0.1"
   },
   "engines": {
     "node": ">=12.0.0",
